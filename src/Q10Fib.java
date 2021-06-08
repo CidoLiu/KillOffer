@@ -1,6 +1,7 @@
 /**
  * @author liudongjin
  * @date 2021/3/21 15:19
+ * @description 斐波那契数列，P74
  */
 public class Q10Fib {
 

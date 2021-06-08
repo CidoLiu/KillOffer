@@ -1,6 +1,7 @@
 /**
  * @author liudongjin
  * @date 2021/3/21 21:34
+ * @description 旋转数组的最小数字，如{3,4,5,1,2}为{1,2,3,4,5}的一个旋转，找到最小的数组1，P82
  */
 public class Q11MinArray {
     public int minArray(int[] numbers) {

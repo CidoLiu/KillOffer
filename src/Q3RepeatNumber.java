@@ -1,6 +1,7 @@
 /**
  * @author liudongjin
  * @date 2021/3/16 23:20
+ * @description 找出数组中重复的数字，P39
  */
 public class Q3RepeatNumber {
 

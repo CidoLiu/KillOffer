@@ -1,6 +1,7 @@
 /**
  * @author liudongjin
  * @date 2021/3/21 21:55
+ * @description 矩阵中的路径，判断字符矩阵中是否包含某一字符串路径，P89
  */
 public class Q12Exist {
     public boolean exist(char[][] board, String word) {

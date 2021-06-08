@@ -1,6 +1,7 @@
 /**
  * @author liudongjin
  * @date 2021/3/18 23:33
+ * @description 将字符串中的空格替换为%20，P51
  */
 public class Q5ReplaceSpace {
 

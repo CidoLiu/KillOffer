@@ -1,6 +1,7 @@
 /**
  * @author liudongjin
  * @date 2021/3/18 23:41
+ * @description 从尾到头打印链表，P58
  */
 public class Q6ReversePrint {
 

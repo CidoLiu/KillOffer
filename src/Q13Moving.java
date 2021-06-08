@@ -1,6 +1,7 @@
 /**
  * @author liudongjin
  * @date 2021/3/22 09:52
+ * @description 机器人的运动范围，机器人k从(0,0)开始，不能进入行坐标和列坐标数位之和大于k的格子，P92
  */
 public class Q13Moving {
     public int movingCount(int m, int n, int k) {

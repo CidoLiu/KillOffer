@@ -3,6 +3,7 @@ import java.util.Stack;
 /**
  * @author liudongjin
  * @date 2021/3/21 10:48
+ * @description 利用两个栈实现队列，P68
  */
 public class Q9CQueue {
     class CQueue {
